@@ -5,7 +5,7 @@ This is the backend for a simple inventory management application, built with Sp
 ##  Technologies Used
 
   * **Framework:** Spring Boot 3.1.2
-  * **Language:** Java 17
+  * **Language:** Java 21
   * **Build Tool:** Maven
   * **Database:** PostgreSQL
   * **Security:** Spring Security, JWT (JSON Web Token)
